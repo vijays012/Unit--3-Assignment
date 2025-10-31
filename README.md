@@ -17,3 +17,4 @@ git commit -m "Initial Commit"
 
 ## Learn More
 Check out [Git Basics on GitHub Docs](https://docs.github.com/en/get-started/using-git/about-git)
+## Project Goals\nThis project demonstrates version control and documentation using GitHub.
